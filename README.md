@@ -4,9 +4,7 @@ YTÜ Veri Bilimi Kulübü ile birlikte düzenlediğimiz 3 oturumlu "Hands-on AI"
 
 ## Eğitim Hakkında
 
-Bu eğitim serisi, temel Python programlamadan başlayarak veri bilimi, istatistik, veri görselleştirme ve makine öğrenmesi modellerine kadar geniş bir yelpazeyi kapsamaktadır. Katılımcılar için gerekli tüm materyaller, kodlar ve kaynaklar bu repo üzerinden paylaşılacaktır.
-
-
+Bu eğitim serisi, Üretken Yapay Zeka hakkında teorik bilgiden başlayarak RAG ve Agent kavramlarına kadar uzanan geniş bir yelpazeyi kapsamaktadır. Eğitim serisine dair tüm kaynaklar bu repoda bulunabilir.
 
 ## Eğitim Takvimi
 
