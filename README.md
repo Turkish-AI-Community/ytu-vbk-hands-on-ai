@@ -12,7 +12,7 @@ Bu eğitim serisi, Üretken Yapay Zeka hakkında teorik bilgiden başlayarak RAG
 | --- | --- | --- | --- |
 | 1 | Yeni İnternet: Üretken Yapay Zeka'yı Tanıma Rehberi | Göker Güner | [Gun_01_Yeni_İnternet](./Gun_01_Yeni_İnternet) |
 | 2 | Gelenekselden Geleceğe: LLM Dünyası ve Uygulamalı RAG | Rumeysa Bakar | [Gun_02_Uygulamali_RAG](./Gun_02_Uygulamali_RAG) |
-| 3 | | Enes Fehmi Manan | []() |
+| 3 | Agentic AI: Düşünen, Planlayan ve Harekete Geçen Yapay Zeka | Enes Fehmi Manan | [Gun_03_Agentic_AI](./Gun_03_Agentic_AI) |
 
 ## Eğitmenler
 
